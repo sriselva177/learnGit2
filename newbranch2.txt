@@ -1,8 +1,5 @@
 ri  
-<<<<<<< HEAD
-=======
 selva
 3
 6
 7454
->>>>>>> parent of b897f2d (new modify)
