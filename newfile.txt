@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello in branch prakash naderaja
+=======
+123
+
+>>>>>>> newbranch2
