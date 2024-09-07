@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 sri selva
+=======
+sri  
+selva
+3
+4
+5
+6
+7454
+>>>>>>> parent of 4f42daa (Revert "Update newbranch2.txt")
 
 
