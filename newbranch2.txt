@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-sris elvaaas
-dasda
-sadas
-asd
-
-=======
 sri
 selva prakash
 al
 naderaja
->>>>>>> parent of 3099dc3 (Update newbranch2.txt)
+
