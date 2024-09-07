@@ -1,1 +1,1 @@
-girst commit pusing to remote repo
+pushing to remote repo
