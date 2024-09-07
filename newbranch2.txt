@@ -1,2 +1,3 @@
-pushing to loca repo only
-123
+trying 
+to make
+conflict
